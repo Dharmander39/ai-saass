@@ -1,4 +1,11 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {};
-
-export default nextConfig;
+// /** @type {import('next').NextConfig} */
+const nextConfig = {
+    images: {
+      domains: ['oaidalleapiprodscus.blob.core.windows.net',
+        "cdn.openai.com"
+      ],
+    },
+  };
+  
+  export default nextConfig;
+  
