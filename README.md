@@ -1,4 +1,13 @@
+<div align="center">
+  <br />
+    <a href="" target="_blank">
+      <img src="https://github.com/Dharmander39/ai-saass/blob/main/Project11.PNG">
+    </a>
+  <br />
+ <h3 align="center">Genius AI Platform</h3>
 
+
+</div>
 # 🌟 **Genius - Next-Gen AI-Powered Platform** 🚀  
 
 **Genius** is a cutting-edge platform built with the latest technologies to deliver seamless, interactive, and AI-driven experiences. Designed with performance, scalability, and user experience in mind, Genius integrates advanced features for authentication, AI processing, real-time communication, and payment solutions.  
